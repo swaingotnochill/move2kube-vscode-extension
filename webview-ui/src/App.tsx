@@ -12,7 +12,7 @@ function App() {
 
   return (
     <main>
-      <h1>Hello World!</h1>
+      <h1>Hello from Move2Kube!</h1>
       <VSCodeButton onClick={handleHowdyClick}>Howdy!</VSCodeButton>
     </main>
   );

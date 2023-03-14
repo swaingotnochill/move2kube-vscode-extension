@@ -20,6 +20,10 @@
       {
         "command": "m2k.transform",
         "title": "Move2Kube: Transform"
+      },
+      {
+        "command": "m2k.plan",
+        "title": "Move2Kube: Plan"
       }
     ]
   },
